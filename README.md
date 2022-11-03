@@ -1,5 +1,5 @@
 # Data-Exploration
-In this project, I explored the Covid-19 dataset which I downloaded from Our World in Data
+In this project, I used SQL Server to explore the Covid-19 dataset which I downloaded from "Our World in Data".
 The data exploration process are:
 Total Cases vs Total Deaths
 Total Cases vs Population - to shows what percentage of population got covid
